@@ -2,7 +2,7 @@
 ## 👋 Hi, I'm Keval Shah
 
 🎓 First-Year B.Tech Student  
-<br><br>- 🔭 Currently building beginner projects to strengthen my coding skills.<br>- 🤝 Open to collaborating on Web Development and Open Source projects.<br>- 🧠 Learning C, Python, HTML, CSS, JavaScript, Git, and GitHub.<br>- 📚 First-year B.Tech student passionate about Software Development and AI.<br>- 💬 Ask me about coding, GitHub, or college life.<br>- ⚡ Goal: Become a Full Stack Developer and contribute to impactful projects.<br>
+🔭 Currently building beginner projects to strengthen my coding skills.<br>- 🤝 Open to collaborating on Web Development and Open Source projects.<br>- 🧠 Learning C, Python, HTML, CSS, JavaScript, Git, and GitHub.<br>- 📚 First-year B.Tech student passionate about Software Development and AI.<br>- 💬 Ask me about coding, GitHub, or college life.<br>- ⚡ Goal: Become a Full Stack Developer and contribute to impactful projects.<br>
 
 
 ## 🌐 Socials:
