@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## I'm <strong><a href="https://github.com/kevxlshah" target="_blank">Keval Shah</a></strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=500&color=ffffff&width=435&lines=Building+Innovative+Softwares;Let's+Create+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=500&color=ffffff&width=435&lines=I am a+Passionate Software+Developer ;Let's+Create+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />
 
 🎓 First-Year B.Tech Student  
 🔭 Currently building beginner projects to strengthen my coding skills.<br>- 🤝 Open to collaborating on Web Development and Open Source projects.<br>- 🧠 Learning C, Python, HTML, CSS, JavaScript, Git, and GitHub.<br>- 📚 First-year B.Tech student passionate about Software Development and AI.<br>- 💬 Ask me about coding, GitHub, or college life.<br>- ⚡ Goal: Become a Full Stack Developer and contribute to impactful projects.<br>
