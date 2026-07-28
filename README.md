@@ -1,5 +1,5 @@
 # 💫 About Me:
-## I'm <strong><a href="https://github.com/kevxlshah" target="_blank">Keval Shah</a></strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+## I'm <strong><a href="https://github.com/kevxlshah" target="_blank" style="textdecoration:none";>Keval Shah</a></strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=500&color=ffffff&width=435&lines=Building+Innovative+Softwares;Let's+Create+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />
 
