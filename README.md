@@ -1,4 +1,4 @@
-#💫 About Me:
+## 💫 About Me:
 ## I'm <strong><a href="https://github.com/kevxlshah" target="_blank">Keval Shah</a></strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=500&color=778da9&width=435&lines=A+Passionate+Software+Developer!+✨;Builds+Innovative+Applications;Problem+Solver;Let's+Create+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG"/>
